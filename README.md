@@ -19,7 +19,7 @@
 
 ## 🚀 Tecnologias que uso
 
-<div style="display: inline_block"><br>
+<div style="display: flex; justify-content: center"><br>
 
   <!-- Frontend -->
   <img align="center" alt="HTML" height="30" width="40" 
@@ -39,10 +39,6 @@
   <img align="center" alt="MySQL" height="30" width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
-  <!-- Mobile -->
-  <img align="center" alt="Java" height="30" width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-
 </div>
 
 ---
@@ -50,8 +46,8 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusruivo&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusruivo&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -59,7 +55,7 @@
 ## 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=matheusruivo&theme=tokyonight" />
 </p>
 
 ---
