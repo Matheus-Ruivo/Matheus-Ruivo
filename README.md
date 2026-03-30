@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Desenvolvedor em evolução <br>
-  🚀 Focado em criar projetos úteis e bonitos <br>
+  🚀 Focado em criar projetos úteis e modernos <br>
   🎸 Guitarrista nas horas vagas
 </p>
 
